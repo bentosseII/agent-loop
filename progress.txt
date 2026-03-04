@@ -1,0 +1,29 @@
+# Progress Log
+
+## 2026-01-15 - Issue #7: add to readme
+- Added "made by [droid](https://factory.ai)" at the top of README.md
+- Placed as a blockquote right after the main title
+- Files changed: README.md
+---
+
+## 2026-01-15 - Issue #5: pr not main
+- Updated prompt.md to ensure workflow creates PRs instead of pushing directly to main
+- Changed Step 7 from "COMMIT" to "CREATE BRANCH & COMMIT"
+- Added instruction to create a new branch before committing (git checkout -b)
+- Added branch naming convention examples (type/issue-number-description)
+- Added explicit warning to never push directly to main
+- Files changed: prompt.md
+---
+
+## 2026-01-15 - Issue #3: remove dupe link
+- Removed duplicate "Inspired By" section at the bottom of README.md
+- The link to Matt Pocock's Ralph loop is now only at the top of the file
+- Files changed: README.md
+---
+
+## 2026-01-15 - Issue #2: update readme
+- Added link to Matt Pocock's Ralph loop repo at the top of README.md
+- Added as a blockquote under the main title for visibility
+- Files changed: README.md
+---
+
